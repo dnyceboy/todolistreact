@@ -1,0 +1,19 @@
+.container {
+    width: 30%;
+}
+
+.TodoList-ul {
+    list-style: none;
+}
+
+.TodoList {
+    margin-top: 2rem;
+}
+
+.TodoList-input {
+    width: 72%;
+}
+
+/* .TodoList-done {
+    text-decoration: line-through;
+} */
